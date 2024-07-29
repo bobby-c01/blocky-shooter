@@ -6,6 +6,8 @@
 
 BLOCKY-SHOOTER is a 2D shooter game built using Pygame and Pymunk. Players control two blocky characters on a playing field, and each can shoot projectiles at the other. The objective is to reduce the opponent's health to zero by hitting them with projectiles. The game features simple collision detection, player movement, and projectile mechanics. This is game is designed to be local multiplayer and playing with a friend on the same device.
 
+![Blocky-Shooter](https://raw.githubusercontent.com/bobby-c01/blocky-shooter/3538577f25e130fead4d205f8e0e75c5faf89fb9/blocky-shooter.png)
+
 ---
 
 ## Features
